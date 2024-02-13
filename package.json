@@ -4,7 +4,7 @@
   "description": "A project for learning about algorithms.",
   "main": "index.js",
   "scripts": {
-    "test": "vitest",
+    "test": "vitest --run --",
     "chatRubbish": "echo 'that would be obscene'"
   },
   "author": "Yuning",
